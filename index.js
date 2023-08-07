@@ -14,6 +14,6 @@ function createdfrombishalbranch(){
     console.log("working from bishal branch")
 }
 
-function createdfrombishalbranch(){
+function createdfrombipinbranch(){
     console.log("working from bipin branch")
 }
