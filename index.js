@@ -13,3 +13,7 @@ function second() {
 function createdfrombishalbranch(){
     console.log("working from bishal branch")
 }
+
+function createdfrombishalbranch(){
+    console.log("working from bipin branch")
+}
