@@ -10,6 +10,6 @@ function second() {
     console.log("This is my second console")
 }
 
-const es6 = ()=>{
-    console.log("arr");
+function createdfrombishalbranch(){
+    console.log("working from bishal branch")
 }
