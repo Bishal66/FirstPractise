@@ -9,3 +9,7 @@ function hello(){
 function second() {
     console.log("This is my second console")
 }
+
+const es6 = ()=>{
+    console.log("arr");
+}
